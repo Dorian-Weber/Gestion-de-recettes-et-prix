@@ -1,0 +1,61 @@
+[
+  {
+    "nom": "Fondant chocolat",
+    "ingredients": [
+      {
+        "produit": "Farine",
+        "quantite": 80.0,
+        "cout": 0.14
+      },
+      {
+        "produit": "Chocolat",
+        "quantite": 200.0,
+        "cout": 1.84
+      },
+      {
+        "produit": "Sucre",
+        "quantite": 150.0,
+        "cout": 0.15
+      },
+      {
+        "produit": "Beurre",
+        "quantite": 250.0,
+        "cout": 1.89
+      },
+      {
+        "produit": "Oeuf",
+        "quantite": 4.0,
+        "cout": 1.45
+      }
+    ],
+    "cout_matiere": 5.47,
+    "prix_conseille": 13.67
+  },
+  {
+    "nom": "Mousse chocolat",
+    "ingredients": [
+      {
+        "produit": "Chocolat",
+        "quantite": 200.0,
+        "cout": 1.84
+      },
+      {
+        "produit": "Sucre",
+        "quantite": 30.0,
+        "cout": 0.03
+      },
+      {
+        "produit": "Beurre",
+        "quantite": 30.0,
+        "cout": 0.23
+      },
+      {
+        "produit": "Oeuf",
+        "quantite": 6.0,
+        "cout": 2.17
+      }
+    ],
+    "cout_matiere": 4.27,
+    "prix_conseille": 10.67
+  }
+]
